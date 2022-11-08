@@ -1,6 +1,6 @@
 class Mail{
   //ATTRIBUTI
-  String mail;
+  private String mail;
   
   //COSTRUTTORE
   public Mail(String mail){
